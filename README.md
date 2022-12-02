@@ -17,7 +17,9 @@ List of recently read papers.
     - Background Based Method
     - Two Stage: Base Network and Refin Network (Patch Based)
     - Two Datasets, High Speed
- - [ ] Robust High-Resolution Video Matting with Temporal Guidance (WACV 2022)
+ - [x] Robust High-Resolution Video Matting with Temporal Guidance (WACV 2022)
+    - Annotation Input Free
+    - Light Weight, High Speed
  - [ ] SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches (CVPR 2022)
  - [ ] ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation (CVPR 2022)
  - [ ] TransMatting: Enhancing Transparent Objects Matting with Transformers (ECCV 2022)
