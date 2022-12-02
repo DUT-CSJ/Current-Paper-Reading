@@ -14,6 +14,8 @@ List of recently read papers.
     - Mask Based Method
     - Progressive Refinement
  - [ ] Real-Time High-Resolution Background Matting (CVPR 2021 Best Student Paper Honorable Mention)
+    - Background Based Method
+    - 
  - [ ] SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches (CVPR 2022)
  - [ ] ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation (CVPR 2022)
  - [ ] TransMatting: Enhancing Transparent Objects Matting with Transformers (ECCV 2022)
