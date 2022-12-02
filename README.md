@@ -13,9 +13,9 @@ List of recently read papers.
  - [x] Mask Guided Matting via Progressive Refinement Network (CVPR 2021)
     - Mask Based Method
     - Progressive Refinement
- - [ ] Real-Time High-Resolution Background Matting (CVPR 2021 Best Student Paper Honorable Mention)
+ - [x] Real-Time High-Resolution Background Matting (CVPR 2021 Best Student Paper Honorable Mention)
     - Background Based Method
-    - Two Stage: Base Network and Refin Network
+    - Two Stage: Base Network and Refin Network (Patch Based)
     - Two Datasets, High Speed
  - [ ] SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches (CVPR 2022)
  - [ ] ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation (CVPR 2022)
