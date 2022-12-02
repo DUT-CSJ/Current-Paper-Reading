@@ -18,7 +18,7 @@ List of recently read papers.
     - Two Stage: Base Network and Refin Network (Patch Based)
     - Two Datasets, High Speed
  - [x] Robust High-Resolution Video Matting with Temporal Guidance (WACV 2022)
-    - Annotation Input Free
+    - Annotation Input Free, Without Pre-captured Background
     - Light Weight, High Speed
  - [ ] SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches (CVPR 2022)
  - [ ] ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation (CVPR 2022)
