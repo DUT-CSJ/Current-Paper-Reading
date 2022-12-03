@@ -24,3 +24,7 @@ List of recently read papers.
  - [ ] ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation (CVPR 2022)
  - [ ] TransMatting: Enhancing Transparent Objects Matting with Transformers (ECCV 2022)
  - [ ] Human Instance Matting via Mutual Guidance and Multi-Instance Refinement (CVPR 2022 Oral)
+Loss Function in Matting
+ - L1 Regression Loss
+ - Composition Loss
+ - Laplacian Loss
