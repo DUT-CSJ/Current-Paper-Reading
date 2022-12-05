@@ -26,7 +26,9 @@ List of recently read papers.
     - RAF for Feature Fusion
     - Auxiliary Super-Resolution Task
  - [ ] TransMatting: Enhancing Transparent Objects Matting with Transformers (ECCV 2022)
- - [ ] Human Instance Matting via Mutual Guidance and Multi-Instance Refinement (CVPR 2022 Oral)
+ - [x] Human Instance Matting via Mutual Guidance and Multi-Instance Refinement (CVPR 2022 Oral)
+    - Mask Generate (Mask R-CNN) -- Matting (MGMatting) -- Refine (Proposed in This Paper)
+    - New Benchmark and Metric
 
 Loss Function in Matting
  - L1 Regression Loss
