@@ -22,7 +22,7 @@ List of recently read papers.
     - Light Weight, High Speed
  - [ ] SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches (CVPR 2022)
  - [x] ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation (CVPR 2022)
-    - Deep-Shallow-Fusion Architecture
+    - Deep-Shallow-Fusion Architecture (Different from Global Lightweight Model and Global Local Refinement)
     - RAF for Feature Fusion
     - Auxiliary Super-Resolution Task
  - [ ] TransMatting: Enhancing Transparent Objects Matting with Transformers (ECCV 2022)
