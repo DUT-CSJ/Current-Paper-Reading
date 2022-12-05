@@ -21,7 +21,10 @@ List of recently read papers.
     - Annotation Input Free, Without Pre-captured Background
     - Light Weight, High Speed
  - [ ] SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches (CVPR 2022)
- - [ ] ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation (CVPR 2022)
+ - [x] ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation (CVPR 2022)
+    - Deep-Shallow-Fusion Architecture
+    - RAF for Feature Fusion
+    - Auxiliary Super-Resolution Task
  - [ ] TransMatting: Enhancing Transparent Objects Matting with Transformers (ECCV 2022)
  - [ ] Human Instance Matting via Mutual Guidance and Multi-Instance Refinement (CVPR 2022 Oral)
 
