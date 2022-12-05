@@ -33,5 +33,5 @@ Loss Function in Matting
  - Composition Loss
  - Laplacian Loss
 
-### Super-Resolution (Learn for High-Resolution Image Segmentation)
+### Super-Resolution (Steal for High-Resolution Image Segmentation)
  - [ ] SwinIR: Image Restoration Using Swin Transformer (ICCV 2021)
