@@ -36,4 +36,6 @@ Loss Function in Matting
  - Laplacian Loss
 
 ### Super-Resolution (Steal for High-Resolution Image Segmentation)
- - [ ] SwinIR: Image Restoration Using Swin Transformer (ICCV 2021)
+ - [x] SwinIR: Image Restoration Using Swin Transformer (ICCV 2021)
+    - Shallow and Deep Feature Extraction (3x3 Conv and Swin Transformer Block)
+    - Reconstruction Decoder (Conv + PixelShuffle)
