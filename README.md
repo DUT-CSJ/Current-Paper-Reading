@@ -39,3 +39,8 @@ Loss Function in Matting
  - [x] SwinIR: Image Restoration Using Swin Transformer (ICCV 2021)
     - Shallow and Deep Feature Extraction (3x3 Conv and Swin Transformer Block)
     - Reconstruction Decoder (Conv + PixelShuffle)
+
+### Few-Shot Segmentation (Academic Struggle)
+ - [ ] Adaptive Agent Transformer for Few-shot Segmentation (ECCV 2022)
+ - [ ] Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation (ECCV 2022)
+ - [ ] 123
