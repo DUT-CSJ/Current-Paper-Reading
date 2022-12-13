@@ -46,6 +46,7 @@ Loss Function in Matting
  - [x] Self-support Few-Shot Semantic Segmentation (ECCV 2022)
  - Self-Support Matching (Foreground and Background)
  - SSL Loss
+ - Performance is not Outstanding
  - [ ] Adaptive Agent Transformer for Few-shot Segmentation (ECCV 2022)
  - [ ] Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation (ECCV 2022)
  - [ ] Dense Gaussian Processes for Few-Shot Segmentation (ECCV 2022)
