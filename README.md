@@ -51,6 +51,7 @@ Loss Function in Matting
  - [ ] Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation (ECCV 2022)
  - [ ] Dense Gaussian Processes for Few-Shot Segmentation (ECCV 2022)
  - [ ] Doubly Deformable Aggregation of Covariance Matrices for Few-shot Segmentation (ECCV 2022)
- - [ ] Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for Few-Shot Segmentation (ECCV 2022)
+ - [x] Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for Few-Shot Segmentation (ECCV 2022)
+ - self-attention (1-shot to n-shot easily)
  - [ ] Interclass Prototype Relation for Few-Shot Segmentation (ECCV 2022)
  - [ ] HM: Hybrid Masking for Few-Shot Segmentation (ECCV 2022)
