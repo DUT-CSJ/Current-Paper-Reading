@@ -42,7 +42,7 @@ Loss Function in Matting
 
 ### Few-Shot Segmentation (Academic Struggle)
  - [ ] GanOrCon: Are Generative Models Useful for Few-Shot Segmentation? (CVPR 2022)
- - [ ] Learning What Not To Segment: A New Perspective on Few-Shot Segmentation (CVPR 2022 Oral)
+ - [x] Learning What Not To Segment: A New Perspective on Few-Shot Segmentation (CVPR 2022 Oral)
  - [x] Self-support Few-Shot Semantic Segmentation (ECCV 2022)
  - Self-Support Matching (Foreground and Background)
  - SSL Loss
