@@ -41,6 +41,7 @@ Loss Function in Matting
     - Reconstruction Decoder (Conv + PixelShuffle)
 
 ### Few-Shot Segmentation (Academic Struggle)
+ - [x] PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment (ICCV 2019)
  - [ ] GanOrCon: Are Generative Models Useful for Few-Shot Segmentation? (CVPR 2022)
  - [x] Learning What Not To Segment: A New Perspective on Few-Shot Segmentation (CVPR 2022 Oral)
  - [x] Self-support Few-Shot Semantic Segmentation (ECCV 2022)
