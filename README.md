@@ -48,7 +48,7 @@ Loss Function in Matting
  - Self-Support Matching (Foreground and Background)
  - SSL Loss
  - Performance is not Outstanding
- - [ ] Adaptive Agent Transformer for Few-shot Segmentation (ECCV 2022)
+ - [x] Adaptive Agent Transformer for Few-shot Segmentation (ECCV 2022)
  - [ ] Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation (ECCV 2022)
  - [ ] Dense Gaussian Processes for Few-Shot Segmentation (ECCV 2022)
  - [ ] Doubly Deformable Aggregation of Covariance Matrices for Few-shot Segmentation (ECCV 2022)
