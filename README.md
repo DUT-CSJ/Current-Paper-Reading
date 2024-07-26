@@ -3,14 +3,14 @@
 List of recently read papers.
 
 ### Visual Correspondence and Few-Shot Segmentation using Foundation Models!!!
- - [] Emergent Correspondence from Image Diffusion (NIPS 2023)
- - [] Learning Robust Correlation with Foundation Model for Weakly-Supervised Few-Shot Segmentation (KBS 2024)
- - [] LANGUAGE-GUIDED FEW-SHOT SEMANTIC SEGMENTATION (ICASSP 2024)
- - [] ZERO-SHOT CO-SALIENT OBJECT DETECTION FRAMEWORK (ICASSP 2024)
- - [] Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching (ICLR 2024)
- - [] A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence (NIPS 2023)
- - [] OmniGlue: Generalizable Feature Matching with Foundation Model Guidance (CVPR 2024)
- - [] Telling Left from Right: Identifying Geometry-Aware Semantic Correspondence (CVPR 2024)
+ - [ ] Emergent Correspondence from Image Diffusion (NIPS 2023)
+ - [ ] Learning Robust Correlation with Foundation Model for Weakly-Supervised Few-Shot Segmentation (KBS 2024)
+ - [ ] LANGUAGE-GUIDED FEW-SHOT SEMANTIC SEGMENTATION (ICASSP 2024)
+ - [ ] ZERO-SHOT CO-SALIENT OBJECT DETECTION FRAMEWORK (ICASSP 2024)
+ - [ ] Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching (ICLR 2024)
+ - [ ] A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence (NIPS 2023)
+ - [ ] OmniGlue: Generalizable Feature Matching with Foundation Model Guidance (CVPR 2024)
+ - [ ] Telling Left from Right: Identifying Geometry-Aware Semantic Correspondence (CVPR 2024)
 
 ### Matting
  - [x] MatteFormer: Transformer-Based Image Matting via Prior-Tokens (CVPR 2022)
